@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:BanqueService xmlns:tns="http://www.example.org/BanqueService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/BanqueService BanqueService.xsd ">
+  <tns:convertion>
+    <tns:montant>15.3</tns:montant>
+  </tns:convertion>
+  <tns:getComptes code="100" date="2001-01-01" solde="0.0"/>
+  <tns:getCompte code="100" date="2001-01-01" solde="0.0"/>
+</tns:BanqueService>

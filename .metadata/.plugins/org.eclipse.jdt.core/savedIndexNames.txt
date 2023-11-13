@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Ibrahim\Desktop\LSI_3\IbrahimYahyaoui_LSI3_SOA_SW\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3460420904.index
+2447459103.index
+488515824.index
+542094340.index
+3873862537.index
